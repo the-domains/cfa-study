@@ -1,0 +1,14 @@
+layout_spectrum: 0.5162748
+typography_spectrum: 0.4468647
+color:
+  saturation: 0.9684439
+  lightness: 0.6010824
+  brandStrength: 0.820939
+  rhythmicContrast: 0.01744565
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: CFA Study
